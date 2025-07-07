@@ -1,2 +1,2 @@
 # git215_setup
-Homework Module 1
+## Author: Kay Rivera
